@@ -1,6 +1,6 @@
 # Kata TDD del Año Santo Xacobeo
 
-## Definición del problema
+## Definición del problema
 
 El Año Santo ocurre cada vez que el día 25 de julio coincide en domingo. Esta coincidencia ocurre cada pocos años, con una variación que depende de los años que son bisiestos.
 
